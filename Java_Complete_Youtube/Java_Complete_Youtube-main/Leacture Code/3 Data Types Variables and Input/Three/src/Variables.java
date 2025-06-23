@@ -25,6 +25,7 @@ public class Variables {
         System.out.println(wishes);
 
         char myCharacter = 'K';
+        System.out.println(myCharacter);
 
 
 

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java_Complete_Youtube-main/Leacture Code/10 Exception and File Handling/10 Exception and File Handling.iml" filepath="$PROJECT_DIR$/Java_Complete_Youtube-main/Leacture Code/10 Exception and File Handling/10 Exception and File Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Complete_Youtube-main/Leacture Code/11 Collection and Generics/11 Collection and Generics.iml" filepath="$PROJECT_DIR$/Java_Complete_Youtube-main/Leacture Code/11 Collection and Generics/11 Collection and Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Complete_Youtube-main/Leacture Code/12 Multithreading and Executor Service/12 Multithreading and Executor Service.iml" filepath="$PROJECT_DIR$/Java_Complete_Youtube-main/Leacture Code/12 Multithreading and Executor Service/12 Multithreading and Executor Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Complete_Youtube-main/Leacture Code/13 Functional Programming/13 Functional Programming.iml" filepath="$PROJECT_DIR$/Java_Complete_Youtube-main/Leacture Code/13 Functional Programming/13 Functional Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Complete_Youtube-main/Leacture Code/3 Data Types Variables and Input/3 Data Types Variables and Input.iml" filepath="$PROJECT_DIR$/Java_Complete_Youtube-main/Leacture Code/3 Data Types Variables and Input/3 Data Types Variables and Input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Complete_Youtube-main/Leacture Code/4 Operators If-else and Number System/4 Operators If-else and Number System.iml" filepath="$PROJECT_DIR$/Java_Complete_Youtube-main/Leacture Code/4 Operators If-else and Number System/4 Operators If-else and Number System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Complete_Youtube-main/Leacture Code/5 While loop, Methods and  Arrays/5 While loop, Methods and  Arrays.iml" filepath="$PROJECT_DIR$/Java_Complete_Youtube-main/Leacture Code/5 While loop, Methods and  Arrays/5 While loop, Methods and  Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Complete_Youtube-main/Leacture Code/6 Class and Object/6 Class and Object.iml" filepath="$PROJECT_DIR$/Java_Complete_Youtube-main/Leacture Code/6 Class and Object/6 Class and Object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Complete_Youtube-main/Leacture Code/7 Control Statements Math and String/7 Control Statements Math and String.iml" filepath="$PROJECT_DIR$/Java_Complete_Youtube-main/Leacture Code/7 Control Statements Math and String/7 Control Statements Math and String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Complete_Youtube-main/Leacture Code/8 Encapsulation and Inheritance/8 Encapsulation and Inheritance.iml" filepath="$PROJECT_DIR$/Java_Complete_Youtube-main/Leacture Code/8 Encapsulation and Inheritance/8 Encapsulation and Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Complete_Youtube-main/Leacture Code/9 Abstraction and Polymorphism/9 Abstraction and Polymorphism.iml" filepath="$PROJECT_DIR$/Java_Complete_Youtube-main/Leacture Code/9 Abstraction and Polymorphism/9 Abstraction and Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_Complete_Youtube.iml" filepath="$PROJECT_DIR$/.idea/Java_Complete_Youtube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Complete_Youtube-main/Leacture Code/Leacture Code.iml" filepath="$PROJECT_DIR$/Java_Complete_Youtube-main/Leacture Code/Leacture Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Complete_Youtube-main/Programming Challenge/Programming Challenge.iml" filepath="$PROJECT_DIR$/Java_Complete_Youtube-main/Programming Challenge/Programming Challenge.iml" />
+    </modules>
+  </component>
+</project>
