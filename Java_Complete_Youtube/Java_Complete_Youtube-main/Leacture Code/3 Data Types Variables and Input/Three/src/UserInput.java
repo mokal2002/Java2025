@@ -8,6 +8,12 @@ public class UserInput {
         System.out.println("Good Morning " + name);
         System.out.print(name + ", Also tell me your age:");
         int age = input.nextInt();
-        System.out.println("Your age is: " + age);
+
+        if (age >= 18) {
+            System.out.println("Your are adult my friend " + age);
+        }else {
+            System.out.println("You are minor my friend " + age);
+        }
+        }
     }
-}
+
